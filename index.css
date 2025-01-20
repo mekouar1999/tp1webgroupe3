@@ -4,3 +4,70 @@ padding: 1rem;
     background: beige;
     text-align: center;
     font-weight: bold}
+
+
+
+    .div1{
+        width: 200px;
+    height: 200px;
+    background-color: red;
+    }
+
+
+    .div2{
+        width: 200px;
+    height: 200px;
+    background-color: blue;
+    }
+
+
+
+    .div3{
+        width: 200px;
+    height: 200px;
+    background-color: yellow;
+    }
+
+    .div4{
+        width: 200px;
+    height: 200px;
+    background-color: beige;
+    }
+
+    .divmaman{
+        display: flex;
+        gap: 30px;
+        margin-bottom: 1rem;
+    }
+
+    .divmaman2{
+        display: flex;
+       justify-content: space-around;
+        margin-bottom: 1rem;
+    }
+
+    .divmaman3{
+        display: flex;
+       justify-content: space-between;
+        margin-bottom: 1rem;
+    }
+
+
+    .divmaman4{
+        display: flex;
+       justify-content: space-evenly;
+        margin-bottom: 1rem;
+    }
+
+    .divmaman5{
+        display: flex;
+       justify-content: center;
+        margin-bottom: 1rem;
+        gap: 20px;
+    }
+
+    .h2{
+        text-align: center;
+        color: blue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
