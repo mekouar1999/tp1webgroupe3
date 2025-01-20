@@ -1,0 +1,1 @@
+console.log('javascript lié avec succés')
